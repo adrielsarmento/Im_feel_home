@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+  background-color: black;
+}
+
+p#HOME {
+  text-align: end;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  cursor: default;
+}
